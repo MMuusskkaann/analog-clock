@@ -5,7 +5,7 @@ let sec = document.getElementById('sec');
 function displayTime(){
     let date = new Date();
 
-    //getting hour,mins and seconds
+    //getting hour,minutes and seconds
     let hh = date.getHours();
     let mm = date.getMinutes();
     let ss = date.getSeconds();
