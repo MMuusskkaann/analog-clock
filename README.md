@@ -6,8 +6,6 @@ A simple and responsive **Analog Clock** built using **HTML, CSS, and JavaScript
 
 👉 https://mmuusskkaann.github.io/analog-clock/
 
-> Replace the above link with your GitHub Pages URL after deployment.
-
 ---
 
 ## ✨ Features
