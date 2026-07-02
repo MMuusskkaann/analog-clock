@@ -36,7 +36,6 @@ Analog-Clock/
 │── script.js
 │── README.md
 ```
-
 ---
 
 ## ⚙️ How It Works
